@@ -1,0 +1,3 @@
+automation\truyenqc\cucumber\scenario\LoginScenario.class
+automation\truyenqc\cucumber\pages\HomePages.class
+automation\truyenqc\cucumber\steps\HomeSteps.class

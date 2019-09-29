@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Login the system" skipped="0" tests="1" time="22.43" timestamp="2019-09-30 01:12:01"><testcase name="Login system with valid account"><failure message="Expected condition failed: waiting for HomePages.loginOption to be present (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'&#10;Driver info: driver.version: unknown&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBePresentException">Expected condition failed: waiting for HomePages.loginOption to be present (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: driver.version: unknown</failure><system-err>Expected condition failed: waiting for HomePages.loginOption to be present (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: driver.version: unknown
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: driver.version: unknown&#13;
+automation.truyenqc.cucumber.pages.HomePages.select_login(HomePages.java:32)&#13;
+automation.truyenqc.cucumber.steps.HomeSteps.select_login_option(HomeSteps.java:24)&#13;
+automation.truyenqc.cucumber.scenario.LoginScenario.i_open_the_login_screen(LoginScenario.java:21)&#13;
+✽.I open the login screen(src/test/resources/features/Login/LoginSystem.feature:7)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: automation.truyenqc.cucumber.DefinitionTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 25.565 s <<< FAILURE! - in automation.truyenqc.cucumber.DefinitionTestSuite
+Login system with valid account(Login the system)  Time elapsed: 23.119 s  <<< ERROR!
+net.thucydides.core.webdriver.exceptions.ElementShouldBePresentException: 
+Expected condition failed: waiting for HomePages.loginOption to be present (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: driver.version: unknown
+Caused by: org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for HomePages.loginOption to be present (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HSRK9NN', ip: '192.168.1.30', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: driver.version: unknown
+
