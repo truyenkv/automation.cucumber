@@ -1,3 +1,10 @@
-automation\truyenqc\cucumber\scenario\LoginScenario.class
+automation\truyenqc\cucumber\steps\CardSteps.class
 automation\truyenqc\cucumber\pages\HomePages.class
+automation\truyenqc\cucumber\pages\CardPages.class
+automation\truyenqc\cucumber\steps\DetailProductSteps.class
+automation\truyenqc\cucumber\scenario\UserScenario.class
+automation\truyenqc\cucumber\steps\LoginSteps.class
 automation\truyenqc\cucumber\steps\HomeSteps.class
+automation\truyenqc\cucumber\pages\DetailProductPages.class
+automation\truyenqc\cucumber\pages\LoginPages.class
+automation\truyenqc\cucumber\DefinitionTestSuite.class
