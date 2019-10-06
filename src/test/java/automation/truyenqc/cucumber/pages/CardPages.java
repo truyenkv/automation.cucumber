@@ -6,7 +6,7 @@ import net.thucydides.core.pages.PageObject;
 
 public class CardPages extends PageObject {
 
-    @FindBy(xpath = "//*[@id='shopping-cart']/div/div[2]/div[1]/div[1]/p/a/text()")
+    @FindBy(xpath = "//p[@class='name']/a/span/text()")
     private WebElementFacade itemName;
     @FindBy(xpath = "//img[@class='img-responsive']")
     private WebElementFacade imageProduct;
