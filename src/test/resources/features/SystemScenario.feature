@@ -18,7 +18,7 @@ Feature: User behavior action
 
   Scenario: TC-002 Verify login successful correct account
     When I open the login screen
-    And I input the email is 'kieuvantruyen.sgu@gmail.com', password is '10112505' and click login button
+    And I input the email is 'kieuvantruyen.sgu@gmail.com', password is 'xxxx' and click login button
     Then I see 'Chào Kiều Văn Truyền' on the Home screen
 
   Scenario: TC-003 Search the product and add to card
